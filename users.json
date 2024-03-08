@@ -1,0 +1,20 @@
+[
+ {
+  "Firstname": "usr1"
+ },
+ {
+  "Firstname": "usr2",
+  "perms": {
+   "admin": true
+  }
+ },
+ {
+  "Firstname": "usr3",
+  "perms": {
+   "write": true
+  }
+ },
+ {
+  "Firstname": "usr4"
+ }
+]
